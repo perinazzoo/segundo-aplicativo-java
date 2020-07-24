@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SegundoApp</string>
+    <string name="nome">Nome…</string>
+    <string name="t_cnico_em_inform_tica_senac_santa_rosa">Técnico em Informática - SENAC - Santa Rosa</string>
+    <string name="sobrenome">Sobrenome…</string>
+    <string name="email">Email…</string>
+    <string name="curso">Curso…</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="desenvolvido_por_gabriel_perinazzo">Desenvolvido por Gabriel Perinazzo</string>
+</resources>
