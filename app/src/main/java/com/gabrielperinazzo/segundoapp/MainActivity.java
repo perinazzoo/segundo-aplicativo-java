@@ -22,10 +22,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final TextView name = findViewById(R.id.nameInput);
-        final TextView lastName = findViewById(R.id.lastNameInput);
-        final TextView emailAddress = findViewById(R.id.emailInput);
-        final TextView course = findViewById(R.id.courseInput);
+        final EditText name = findViewById(R.id.nameInput);
+        final EditText lastName = findViewById(R.id.lastNameInput);
+        final EditText emailAddress = findViewById(R.id.emailInput);
+        final EditText course = findViewById(R.id.courseInput);
 
         Button clear = findViewById(R.id.clearButton);
         Button save = findViewById(R.id.saveButton);
